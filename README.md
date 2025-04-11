@@ -116,7 +116,8 @@ int main(void)
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
- [exp-3-blink.pdf](https://github.com/user-attachments/files/19701225/exp-3-blink.pdf)
+![WhatsApp Image 2025-04-11 at 14 28 33_bd17a6b3](https://github.com/user-attachments/assets/ce6c3d69-f047-4f71-8349-21976d3d37ef)
+
 
  
  
